@@ -1,0 +1,8 @@
+
+ [   {"person_name":"Teacher 3", "course_name":"Subject 1","communication_skill":4, "competency_subject":3, "quality_lecture":7, "usefulness_topic":2,
+"tr":20},  {"person_name":"Teacher 1", "course_name":"Subject 2","communication_skill":5, "competency_subject":4, "quality_lecture":3, "usefulness_topic":2,
+"tr":20}  ,
+ {"person_name":"Teacher 2", "course_name":"Subject 3","communication_skill":4, "competency_subject":3, "quality_lecture":3, "usefulness_topic":2,
+"tr":20}  
+ ]
+
